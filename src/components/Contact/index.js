@@ -25,7 +25,7 @@ const Content = styled.div`
 const Contact = () => {
   const [copied, setCopied] = useState(false);
   const copyEmail = () => {
-    copy("myemail@email.com");
+    copy("jeremiahyates1992@gmail.com");
     setCopied(true);
     setTimeout(() => {
       setCopied(false);
@@ -37,8 +37,8 @@ const Contact = () => {
         <h1>Contact me</h1>
         <Confetti active={copied} />
         <p>
-          Simply click <span onClick={() => copyEmail()}>here</span> to get my
-          email.
+          Simply click <span onClick={() => copyEmail()}>here</span> to copy my
+          email to your clipboard!
         </p>
       </Content>
     </Wrapper>
