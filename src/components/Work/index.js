@@ -58,7 +58,7 @@ const WorkItem = ({ img, title, description, links, index }) => (
 );
 
 const Work = ({ projects }) => (
-  <WorkWrapper>
+  <WorkWrapper id="work">
     <h1>My Work</h1>
     {projects.map((project, index) => (
       <WorkItem {...project} index={index} />

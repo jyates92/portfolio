@@ -31,9 +31,8 @@ const Header = () => {
     <Wrapper>
       <Title>Jeremiah</Title>
       <Nav>
-        <a href="#bio">Bio</a>
-        <a href="#contact">Contact</a>
         <a href="#work">Work</a>
+        <a href="#contact">Contact</a>
       </Nav>
     </Wrapper>
   );
