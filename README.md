@@ -1,5 +1,37 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+
+  # Title
+  Portfolio
+  
+  [Usage](#usage)
+  [Contributing](#name)
+  [Email](#email)
+  [Github](#github)
+  [Description](#description)
+  [Photo](#photo)
+  [Tests](#tests)
+  [License](#license)
+  # Usage
+  This applications functions to highlight my journey into becoming a web developer.
+  # Contributing
+  No contributions
+  # Description
+  This is my first react.js based web portfolio.
+  # Image
+  ![PHOTO](https://i.imgur.com/woDH6Yr.png)
+  # Tests
+  none.
+  # Email
+  jeremiahyates1992@gmail.com
+  # Github
+  https://jyates92.github.io/portfolio/
+  https://github.com/jyates92/portfolio
+  # License
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -66,3 +98,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
